@@ -32,7 +32,7 @@ MySQL 5.7.36
 
 Composer 2.2.6
 
-1. Clone the repository: https://github.com/olpok/bilemo_api.git
+1. Clone the repository: https://github.com/Newidea3/Bilemo_Api.git
 2. Install dependencies: composer install
 3. Create a .env.local file at the root of the project
 4. Copy .env code and past in .env.local
